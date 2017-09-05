@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "40501206739",
+    "firebase_url": "https://boardgamecollection-3054e.firebaseio.com",
+    "project_id": "boardgamecollection-3054e",
+    "storage_bucket": "boardgamecollection-3054e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40501206739:android:383aefd9f105682d",
+        "android_client_info": {
+          "package_name": "com.james.android.word_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40501206739-fvtnqi9fcq7uc03qarf1sk034uqj214v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.james.android.word_list",
+            "certificate_hash": "7546a66756a9ea2907a1798845fb41186c89d54d"
+          }
+        },
+        {
+          "client_id": "40501206739-t32itkks0dm8g35b4i0dupu8tc71ce9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkAf0Q0kpESEpb4Kt4g3S3nCas8Oyp30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40501206739-t32itkks0dm8g35b4i0dupu8tc71ce9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40501206739:android:10e41543209892e6",
+        "android_client_info": {
+          "package_name": "com.james.android.boardgamecollection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40501206739-t32itkks0dm8g35b4i0dupu8tc71ce9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkAf0Q0kpESEpb4Kt4g3S3nCas8Oyp30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40501206739:android:e5095c2569205983",
+        "android_client_info": {
+          "package_name": "com.james.android.meepleaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40501206739-t32itkks0dm8g35b4i0dupu8tc71ce9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkAf0Q0kpESEpb4Kt4g3S3nCas8Oyp30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
